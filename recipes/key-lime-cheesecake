@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en-US">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width", initial-scale="1.0">
+    </head>
+    <body>
+        <h1>Key Lime Cheesecake</h1>
+        <img src=" ../images/key-lime-cheesecake.jpg" height="150" width="150" alt="image of key lime cheesecake">
+    </body>
+
+</html>
