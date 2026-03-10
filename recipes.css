@@ -1,0 +1,16 @@
+/* styles.css */
+
+.body{
+    background-color: red;
+    }
+
+img {
+    display: block;
+    margin: auto;
+    width: 50%;
+    }
+    .link{
+        color: red;
+        background-color: green;
+        font-size: 30px;
+    }
